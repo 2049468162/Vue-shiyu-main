@@ -201,31 +201,11 @@ pnpm start
 - **代码风格**: ESLint + Prettier
 - **提交规范**: Conventional Commits
 - **类型检查**: TypeScript严格模式
-- **分支策略**: Git Flow
-
-## 🤝 贡献指南
-
-欢迎提交 Issue 和 Pull Request！
-
-1. Fork 本仓库
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 Pull Request
 
 ## 📄 许可证
 
 本项目采用 MIT 许可证 - 详见 [LICENSE.txt](LICENSE.txt)
 
-## 📞 联系方式
-
-如有问题或建议，欢迎提交 Issue。
-
-## 🙏 致谢
-
-感谢所有开源项目的贡献者！
-
----
-
 **⭐ 如果这个项目对你有帮助，请给个 Star！**
+
 
