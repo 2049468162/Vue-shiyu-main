@@ -1,0 +1,15 @@
+{
+  "name": "vue-xiaozhi-web",
+  "version": "1.0.0",
+  "description": "Vue Xiaozhi Web 项目管理",
+  "type": "module",
+  "scripts": {
+    "start": "node start-all.js",
+    "start:vue": "cd my-vue && npm run dev",
+    "start:backend": "cd social-platform-backend && npm run dev",
+    "start:xiaozhi": "cd xiaozhi-webui-master && pnpm dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

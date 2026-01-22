@@ -1,0 +1,18 @@
+# 小智AI后端依赖列表
+# 安装命令：pip install -r requirements.txt
+
+# Web框架
+fastapi>=0.116.1
+uvicorn>=0.35.0
+
+# WebSocket支持（⚠️ 版本必须 >= 15.0.1）
+websockets>=15.0.1
+
+# 音频处理
+opuslib>=3.0.1
+numpy>=2.3.2
+
+# 工具库
+colorlog>=6.9.0
+python-dotenv>=1.1.1
+requests>=2.32.4
